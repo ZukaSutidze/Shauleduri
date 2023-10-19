@@ -1,0 +1,103 @@
+
+
+@media (width>1439px){
+    body{
+        display: flex;
+        width: 1440px !important;
+        overflow-x: hidden;
+        box-sizing: border-box;
+        background-color: white;
+        margin: auto;
+        justify-content: center;
+       
+    }
+    
+    .main{
+        width: 1440px !important;
+    }
+    
+    .TM{
+        width: 40px;
+        height: 40px;
+        margin-left: 165px;
+        margin-top: 604px;
+    }
+
+    .Text-3{
+        width: 255px !important;
+        font-size: 16px !important;
+
+    }
+
+    .Order{
+       
+        width: 175px;
+        height: 58px;
+        border-radius: 8px;
+        margin-left: 760px;
+        margin-top: 55px;
+    }
+    
+    .Text-1{
+        font-size: 56px;
+        width: 445px;
+    }
+    
+    .FirstKeyboard{
+        margin-left: 630px !important;
+    }
+
+    .HIGHLY{
+       margin-left: 0 !important;
+       width: 25% !important;
+       gap: 40px !important;
+       text-align: start !important;
+    }
+    
+    .Last-P{
+        width: 262px !important;
+        display: flex !important;
+        justify-content: center !important;
+        align-items: center !important;
+    }
+
+    .mecha{
+        width: 255px;
+        font-size: 32px;
+        text-align: start;
+    }
+
+    .MECHA{
+        display: grid !important;
+    }
+
+    .flex{
+        gap: 40px;
+        display: flex !important;
+    }
+     
+    .SecondKeyboard{
+        width: 220px;
+    }
+
+    .Text-4{
+        margin-left: 0;
+        text-align: start;
+    }
+    .Text-5{
+        margin-left: 0;
+        text-align: start;
+    }
+
+    .group8{
+        margin-left: 0;
+    }
+
+    .EZ{
+        display: flex !important;
+        width: 100%  !important;
+        justify-content: center  !important;
+        align-items: center  !important;
+    }
+    
+}
